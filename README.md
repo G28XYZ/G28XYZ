@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<img src="https://github.com/G28XYZ/G28XYZ/blob/main/images/download.gif" alt="hello gif">
+
 <!--
 **G28XYZ/G28XYZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -12,14 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-##- 🌱 I’m currently learning
+## - 🌱 I’m currently learning
 
 ---
 
 Now i studing in yandex-practicum course in the direction of web-dev.
 
 
-##- 💬 Ask me about
+## - 💬 Ask me about
 
 --- 
 
