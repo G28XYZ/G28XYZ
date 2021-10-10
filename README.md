@@ -25,6 +25,16 @@ Here are some ideas to get you started:
 
 #### _Now i studing in yandex-practicum course in the direction of web-dev._
 
+## Latest project
+
+### In process:
+
+- Sprint 1-2 - [How to learn](https://g28xyz.github.io/how-to-learn)
+
+### Passed:
+
+- None yet...
+
 ## 📜 About me
 
 ---
