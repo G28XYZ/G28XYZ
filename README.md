@@ -19,13 +19,13 @@ Here are some ideas to get you started:
 
 ---
 
-#### \*Now i studing in yandex-practicum course in the direction of web-dev.\*
+#### _Now i studing in yandex-practicum course in the direction of web-dev._
 
 ## 📜 About me
 
 ---
 
-#### \*I love football, I play with my teammates and sometimes I watch matches. My favorite football club is AC Milan. But lately there has been little free time, so now it is rarely possible to follow football.\*
+#### _I love football, I play with my teammates and sometimes I watch matches. My favorite football club is AC Milan. But lately there has been little free time, so now it is rarely possible to follow football._
 
 #### To be continue soon...
 
