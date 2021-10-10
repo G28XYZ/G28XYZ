@@ -31,8 +31,9 @@ Here are some ideas to get you started:
 
 ## 🎯Skills
 
+![](https://img.shields.io/badge/Code-HTML-informational?style=for-the-badge&logo=html5&logoColor=f94f09&color=f94f09)
+
 ![](https://img.shields.io/badge/Style-CSS-informational?style=for-the-badge&logo=css3&logoColor=1C49EE&color=1C49EE&labelColor=white)
 
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=for-the-badge&logo=GitHub&logoColor=white&color=8373BC)
 
-![](https://img.shields.io/badge/Code-HTML-informational?style=for-the-badge&logo=html5&logoColor=f94f09&color=f94f09)
