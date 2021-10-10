@@ -28,3 +28,9 @@ Here are some ideas to get you started:
 ### I love football, I play with my teammates and sometimes I watch matches. My favorite football club is AC Milan. But lately there has been little free time, so now it is rarely possible to follow football.
 
 ### To be continue soon...
+
+## 🎯Skills
+
+![](https://img.shields.io/badge/Style-CSS-informational?style=for-the-badge&logo=css3&logoColor=1C49EE&color=1C49EE&labelColor=white)
+![](https://img.shields.io/badge/Tools-GitHub-informational?style=for-the-badge&logo=GitHub&logoColor=white&color=8373BC)
+![](https://img.shields.io/badge/Code-HTML-informational?style=for-the-badge&logo=html5&logoColor=f94f09&color=f94f09)
