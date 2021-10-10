@@ -14,15 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## - 🌱 I’m currently learning
+
+## 🌱 I’m currently learning
 
 ---
 
-Now i studing in yandex-practicum course in the direction of web-dev.
+### Now i studing in yandex-practicum course in the direction of web-dev.
 
+## 📜 About me
 
-## - 💬 Ask me about
+---
 
---- 
+### I love football, I play with my teammates and sometimes I watch matches. My favorite football club is AC Milan. But lately there has been little free time, so now it is rarely possible to follow football.
 
-I love football, I play with my teammates and sometimes I watch matches. My favorite football club is AC Milan. But lately there has been little free time, so now it is rarely possible to follow football.
+### To be continue soon...
