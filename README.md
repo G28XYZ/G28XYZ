@@ -21,13 +21,9 @@ Here are some ideas to get you started:
 
 ## 🌱 I’m currently learning
 
----
-
 #### _Now i studing in yandex-practicum course in the direction of web-dev._
 
 ## 📂 Latest project
-
----
 
 ### 📝 In process:
 
@@ -38,8 +34,6 @@ Here are some ideas to get you started:
 - None yet...
 
 ## 📜 About me
-
----
 
 #### _I love football, I play with my teammates and sometimes I watch matches. My favorite football club is AC Milan. But lately there has been little free time, so now it is rarely possible to follow football._
 
