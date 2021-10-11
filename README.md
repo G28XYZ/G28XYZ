@@ -27,11 +27,11 @@ Here are some ideas to get you started:
 
 ### 📝 In process:
 
-- Sprint 1-2 - [How to learn](https://g28xyz.github.io/how-to-learn)
+- Sprint 3
 
 ### ✅ Passed:
 
-- None yet...
+- Sprint 1-2 - [How to learn](https://g28xyz.github.io/how-to-learn)
 
 ## 📜 About me
 
