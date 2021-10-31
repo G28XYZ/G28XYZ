@@ -57,8 +57,8 @@ Here are some ideas to get you started:
 
 
 
-<body style="background: red;">
-  <div id="scene">
+<body>
+  <div id="scene" >
     <div id="left-zone">
       <ul class="list">
         <li class="item">
@@ -73,7 +73,7 @@ Here are some ideas to get you started:
           <input type="radio" id="radio_A banana is an edible fruit, botanically a berry, produced by several kinds of large herbaceous flowering plants in the genus Musa." name="basic_carousel" value="A banana is an edible fruit, botanically a berry, produced by several kinds of large herbaceous flowering plants in the genus Musa."/>
           <label class="label_banana" for="radio_A banana is an edible fruit, botanically a berry, produced by several kinds of large herbaceous flowering plants in the genus Musa.">banana</label>
           <div class="content content_banana"><span class="picto"></span>
-            <h1>banana</h1>
+            <h1 style="color: red">banana</h1>
             <p>A banana is an edible fruit, botanically a berry, produced by several kinds of large herbaceous flowering plants in the genus Musa.</p>
           </div>
         </li>
