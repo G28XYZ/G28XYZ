@@ -57,3 +57,6 @@ Here are some ideas to get you started:
 <a href="https://github.com/G28XYZ">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=G28XYZ&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=370569" alt="Alex GitHub Stats" />
 </a>
+<a href="https://github.com/G28XYZ">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=G28XYZ&show_icons=true&line_height=27&count_private=true&theme=algolia&show_icons=true" alt="Alex GitHub Stats" />
+</a>
