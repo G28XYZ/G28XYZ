@@ -27,12 +27,13 @@ Here are some ideas to get you started:
 
 ### 📝 In process:
 
-- Sprint 4
+- Sprint 5
 
 ### ✅ Passed:
 
 - Sprint 1-2 - [How to learn](https://g28xyz.github.io/how-to-learn)
 - Sprint 3 - [Russian travel](https://g28xyz.github.io/russian-travel)
+- Sprint 4 - [Mesto](https://g28xyz.github.io/mesto)
 
 ## 📜 About me
 
