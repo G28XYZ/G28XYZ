@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ## 🌱 I’m currently learning
 
- _Now i studing in yandex-practicum course in the direction of web-dev._
+_Now i studing in yandex-practicum course in the direction of web-dev._
 
 ## 📂 Latest project
 
@@ -37,18 +37,25 @@ Here are some ideas to get you started:
 
 ## 📜 About me
 
- _I love football, I play with my teammates and sometimes I watch matches. My favorite football club is AC Milan. But lately there has been little free time, so now it is rarely possible to follow football._
+_I love football, I play with my teammates and sometimes I watch matches. My favorite football club is AC Milan. But lately there has been little free time, so now it is rarely possible to follow football._
 
 #### To be continue soon...
 
 ## 🎯 Skills
 
-![](https://img.shields.io/badge/Code-HTML-informational?style=for-the-badge&logo=html5&logoColor=f94f09&color=f94f09)
-![](https://img.shields.io/badge/Style-CSS-informational?style=for-the-badge&logo=css3&logoColor=1C49EE&color=1C49EE&labelColor=white)
-![](https://img.shields.io/badge/Tools-GitHub-informational?style=for-the-badge&logo=GitHub&logoColor=white&color=8373BC)
+Codes:
+![html](https://tinyurl.com/2fw8b3vz) ![javascript](https://tinyurl.com/5bkbxz2j)
+
+Styles:
+![css](https://tinyurl.com/ms6732wv)
+
+Tools:
+![GitHub](https://tinyurl.com/46mz3hp5) ![Webpack](https://tinyurl.com/apn6f2v9) ![Babel](https://tinyurl.com/2p9eu8st) ![Postcss](https://tinyurl.com/4p6mauba) ![NPM](https://tinyurl.com/59hk6rs8)
+
+Editors:
+![Vim](https://tinyurl.com/2p9a86w4) ![VSCode](https://tinyurl.com/ynxssmbn)
 
 ## &#x1f4c8; GItHub Stats
-
 
 <a href="https://github.com/G28XYZ">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=G28XYZ&hide=html,css&theme=algolia&show_icons=true" />
