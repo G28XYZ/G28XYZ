@@ -44,15 +44,19 @@ _I love football, I play with my teammates and sometimes I watch matches. My fav
 ## 🎯 Skills
 
 Codes:
+
 ![html](https://tinyurl.com/2fw8b3vz) ![javascript](https://tinyurl.com/5bkbxz2j)
 
 Styles:
+
 ![css](https://tinyurl.com/ms6732wv)
 
 Tools:
+
 ![GitHub](https://tinyurl.com/46mz3hp5) ![Webpack](https://tinyurl.com/apn6f2v9) ![Babel](https://tinyurl.com/2p9eu8st) ![Postcss](https://tinyurl.com/4p6mauba) ![NPM](https://tinyurl.com/59hk6rs8)
 
 Editors:
+
 ![Vim](https://tinyurl.com/2p9a86w4) ![VSCode](https://tinyurl.com/ynxssmbn)
 
 ## &#x1f4c8; GItHub Stats
