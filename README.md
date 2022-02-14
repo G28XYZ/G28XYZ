@@ -19,29 +19,29 @@ Here are some ideas to get you started:
 
 #
 
-## 🌱 I’m currently learning
+## 🌱 В настоящее время я учусь
 
-_Now i studing in yandex-practicum course in the direction of web-dev._
+_Сейчас я учусь на курсе Яндекс.Практикум по направлению веб-разработчик_
 
-## 📂 Latest project
+## 📂 Крайние проекты
 
-### 📝 In process:
+### 📝 В процессе:
 
-- Sprint 9
+- Спринт 10 (в ожидании)
 
-### ✅ Passed:
+### ✅ Сданы:
 
-- Sprint 1-2 - [How to learn](https://g28xyz.github.io/how-to-learn)
-- Sprint 3 - [Russian travel](https://g28xyz.github.io/russian-travel)
-- Sprint 4-5-6-7-8 - [Mesto](https://g28xyz.github.io/mesto)
+- Спринт 1-2 - [How to learn](https://g28xyz.github.io/how-to-learn)
+- Спринт 3 - [Russian travel](https://g28xyz.github.io/russian-travel)
+- Спринт 4-5-6-7-8-9 - [Mesto](https://g28xyz.github.io/mesto)
 
-## 📜 About me
+## 📜 Обо мне
 
-_I love football, I play with my teammates and sometimes I watch matches. My favorite football club is AC Milan. But lately there has been little free time, so now it is rarely possible to follow football._
+_Мне всегда хотелось приподнять завесу тайны програмирования, хотя моя работа немного связана с программированием, вмоем случае это усзкоспециализированно. Поэтому решил поступить 
 
-#### To be continue soon...
+_Я люблю футбол, играю со своими товарищами по команде и иногда смотрю матчи. Мой любимый футбольный клуб - "Милан". Но в последнее время стало мало свободного времени, поэтому сейчас редко удается следить за футболом._
 
-## 🎯 Skills
+## 🎯 Навыки
 
 Codes:
 
