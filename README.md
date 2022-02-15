@@ -61,7 +61,7 @@ _Сейчас я учусь на курсе Яндекс.Практикум по
 
 ## Codewars:
 
-[![codewars](https://www.codewars.com/users/username/badges/small)](https://www.codewars.com/users/Alex%20Kucher) 
+[![codewars](https://www.codewars.com/users/Alex%20Kucher/badges/large)](https://www.codewars.com/users/Alex%20Kucher)
 
 ## &#x1f4c8; GItHub статистика
 
