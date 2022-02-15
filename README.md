@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 
 ### ✅ Сданы:
 
-- Спринт 1-2 - [How to learn](https://github.com/how-to-learn)
-- Спринт 3 - [Russian travel](https://github.com/russian-travel)
-- Спринт 4-5-6-7-8-9 - [Mesto](https://github.com/mesto)
+- Спринт 1-2 - [How to learn](https://github.com/g28xyz/how-to-learn)
+- Спринт 3 - [Russian travel](https://github.com/g28xyz/russian-travel)
+- Спринт 4-5-6-7-8-9 - [Mesto](https://github.com/g28xyz/mesto)
 
 ### 🗂 Другие проекты:
 
