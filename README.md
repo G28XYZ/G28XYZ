@@ -1,5 +1,3 @@
-### Привет 👋
-
 [![Visits Badge](https://badges.pufler.dev/visits/G28XYZ/G28XYZ?style=flat&logo=Git&logoColor=white&color=007DFD)](https://github.com/g28xyz)
 
 <img src="https://github.com/G28XYZ/G28XYZ/blob/main/images/download.gif" alt="hello gif">
