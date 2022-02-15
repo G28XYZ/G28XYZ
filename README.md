@@ -65,17 +65,16 @@ _Сейчас я учусь на курсе Яндекс.Практикум по
 
 ## &#x1f4c8; GItHub статистика
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=daniilshat&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=daniilshat&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=daniilshat&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=daniilshat&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=daniilshat&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=g28xyz&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=g28xyz&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=g28xyz&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=g28xyz&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=g28xyz&theme=solarized_dark)
 
-
-<a href="https://github.com/G28XYZ">
+<!-- <a href="https://github.com/G28XYZ">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=G28XYZ&hide=html,css&theme=algolia&show_icons=true" />
 </a>
 
 <a href="https://github.com/G28XYZ">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=G28XYZ&show_icons=true&line_height=27&count_private=true&theme=algolia&show_icons=true" alt="Alex GitHub Stats" />
-</a>
+</a> -->
