@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 - Спринт 3 - [Russian travel](https://g28xyz.github.io/russian-travel)
 - Спринт 4-5-6-7-8-9 - [Mesto](https://g28xyz.github.io/mesto)
 
-### Другие проекты:
+### 🗂 Другие проекты:
 
 - [Калькулятор](https://github.com/G28XYZ/calc) - приложение калькулятор. Демо - [Калькулятор](https://g28xyz.github.io/calc/)
 - [Re-sote](https://github.com/G28XYZ/re-store) - учебный проект из курса профессиональная разработка от Juriy Bura (Udemy)
@@ -59,7 +59,7 @@ Here are some ideas to get you started:
 
 ![Vim](https://tinyurl.com/2p9a86w4) ![VSCode](https://tinyurl.com/ynxssmbn)
 
-## Codewars:
+## 📚 Codewars:
 
 [![codewars](https://www.codewars.com/users/Alex%20Kucher/badges/large)](https://www.codewars.com/users/Alex%20Kucher)
 
