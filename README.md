@@ -1,4 +1,4 @@
-### Hi there 👋
+### Привет 👋
 
 [![Visits Badge](https://badges.pufler.dev/visits/G28XYZ/G28XYZ?style=flat&logo=Git&logoColor=white&color=007DFD)](https://github.com/g28xyz)
 
@@ -45,23 +45,23 @@ _Сейчас я учусь на курсе Яндекс.Практикум по
 
 ## 🎯 Навыки
 
-Codes:
+Код:
 
 ![html](https://tinyurl.com/2fw8b3vz) ![javascript](https://tinyurl.com/5bkbxz2j)
 
-Styles:
+Стили:
 
 ![css](https://tinyurl.com/ms6732wv)
 
-Tools:
+Интсрументы:
 
 ![GitHub](https://tinyurl.com/46mz3hp5) ![Webpack](https://tinyurl.com/apn6f2v9) ![Babel](https://tinyurl.com/2p9eu8st) ![Postcss](https://tinyurl.com/4p6mauba) ![NPM](https://tinyurl.com/59hk6rs8)
 
-Editors:
+Редакторы:
 
 ![Vim](https://tinyurl.com/2p9a86w4) ![VSCode](https://tinyurl.com/ynxssmbn)
 
-## &#x1f4c8; GItHub Stats
+## &#x1f4c8; GItHub статистика
 
 <a href="https://github.com/G28XYZ">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=G28XYZ&hide=html,css&theme=algolia&show_icons=true" />
