@@ -59,6 +59,10 @@ _Сейчас я учусь на курсе Яндекс.Практикум по
 
 ![Vim](https://tinyurl.com/2p9a86w4) ![VSCode](https://tinyurl.com/ynxssmbn)
 
+## Codewars:
+
+[![codewars](https://www.codewars.com/users/username/badges/small)](https://www.codewars.com/users/AlexKucher) 
+
 ## &#x1f4c8; GItHub статистика
 
 <a href="https://github.com/G28XYZ">
