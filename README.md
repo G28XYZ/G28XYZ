@@ -53,7 +53,7 @@ _Сейчас я учусь на курсе Яндекс.Практикум по
 
 ![css](https://tinyurl.com/ms6732wv)
 
-Интсрументы:
+Инструменты:
 
 ![GitHub](https://tinyurl.com/46mz3hp5) ![Webpack](https://tinyurl.com/apn6f2v9) ![Babel](https://tinyurl.com/2p9eu8st) ![Postcss](https://tinyurl.com/4p6mauba) ![NPM](https://tinyurl.com/59hk6rs8)
 
