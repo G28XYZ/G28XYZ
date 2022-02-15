@@ -37,7 +37,7 @@ _Сейчас я учусь на курсе Яндекс.Практикум по
 
 ### Другие проекты:
 
-- [Калькулятор](https://github.com/G28XYZ/calc) - простое приложение калькулятор. Демо - [Калькулятор](https://g28xyz.github.io/calc/)
+- [Калькулятор](https://github.com/G28XYZ/calc) - приложение калькулятор. Демо - [Калькулятор](https://g28xyz.github.io/calc/)
 - [Re-sote](https://github.com/G28XYZ/re-store) - учебный проект из курса профессиональная разработка от Juriy Bura (Udemy)
 - [Шахматы/шашки](https://github.com/G28XYZ/chess) - мини-приложение шахматная доска. Демо - [шахматы/шашки](https://g28xyz.github.io/chess/)
 
