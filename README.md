@@ -1,3 +1,5 @@
+# Привет 👋 меня зовут Александр
+
 [![Visits Badge](https://badges.pufler.dev/visits/G28XYZ/G28XYZ?style=flat&logo=Git&logoColor=white&color=007DFD)](https://github.com/g28xyz)
 
 <img src="https://github.com/G28XYZ/G28XYZ/blob/main/images/download.gif" alt="hello gif">
@@ -19,7 +21,7 @@ Here are some ideas to get you started:
 
 ## 🌱 В настоящее время я учусь
 
-_Сейчас я учусь на курсе Яндекс.Практикум по направлению веб-разработчик_
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23000000&duration=8000&lines=%D0%A1%D1%82%D1%83%D0%B4%D0%B5%D0%BD%D1%82+%D0%AF%D0%BD%D0%B4%D0%B5%D0%BA%D1%81.%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D1%83%D0%BC%D0%B0+-+web-dev+❤️)](https://git.io/typing-svg)
 
 ## 📂 Крайние проекты
 
