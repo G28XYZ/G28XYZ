@@ -2,7 +2,7 @@
 
 [![Visits Badge](https://badges.pufler.dev/visits/G28XYZ/G28XYZ?style=flat&logo=Git&logoColor=white&color=007DFD)](https://github.com/g28xyz)
 
-<img src="https://github.com/G28XYZ/G28XYZ/blob/main/images/download.gif" alt="hello gif">
+<!-- <img src="https://github.com/G28XYZ/G28XYZ/blob/main/images/download.gif" alt="hello gif"> -->
 
 <!--
 **G28XYZ/G28XYZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
