@@ -66,10 +66,7 @@ Here are some ideas to get you started:
 ## &#x1f4c8; GItHub статистика
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=g28xyz&theme=nord_bright)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=g28xyz&theme=nord_bright)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=g28xyz&theme=nord_bright)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=g28xyz&theme=nord_bright)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=g28xyz&theme=nord_bright)
 
 <!-- <a href="https://github.com/G28XYZ">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=G28XYZ&hide=html,css&theme=algolia&show_icons=true" />
