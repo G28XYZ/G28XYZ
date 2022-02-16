@@ -1,24 +1,8 @@
-# Hi there, I'm [Daniil](https://daniilshat.ru/) ![](https://github.com/blackcater/blackcater/raw/main/images/Hi.gif) 
-### Computer science student, IT news writer from Russia 🇷🇺
+<h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Daniil</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">Computer science student, IT news writer from Russia 🇷🇺</h3>
 
 [![Visits Badge](https://badges.pufler.dev/visits/G28XYZ/G28XYZ?style=flat&logo=Git&logoColor=white&color=007DFD)](https://github.com/g28xyz)
-
-<!-- <img src="https://github.com/G28XYZ/G28XYZ/blob/main/images/download.gif" alt="hello gif"> -->
-
-<!--
-**G28XYZ/G28XYZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-#
 
 ## 🌱 В настоящее время я учусь
 
