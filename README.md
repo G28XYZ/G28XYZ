@@ -1,4 +1,5 @@
-# Привет 👋 меня зовут Александр
+# Hi there, I'm [Daniil](https://daniilshat.ru/) ![](https://github.com/blackcater/blackcater/raw/main/images/Hi.gif) 
+### Computer science student, IT news writer from Russia 🇷🇺
 
 [![Visits Badge](https://badges.pufler.dev/visits/G28XYZ/G28XYZ?style=flat&logo=Git&logoColor=white&color=007DFD)](https://github.com/g28xyz)
 
