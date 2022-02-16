@@ -58,7 +58,7 @@
 
 ![Vim](https://tinyurl.com/2p9a86w4) ![VSCode](https://tinyurl.com/ynxssmbn) -->
 
-## &#x1f4c8; статистика:
+## &#x1f4c8; Статистика:
 
 [![codewars](https://www.codewars.com/users/Alex%20Kucher/badges/large)](https://www.codewars.com/users/Alex%20Kucher)
 
