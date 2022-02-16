@@ -8,7 +8,7 @@
 
 </h1>
 
-## 📂 Крайние проекты
+## 📂 Крайние проекты:
 
 ### 📝 В процессе:
 
@@ -65,8 +65,8 @@
 ## &#x1f4c8; GIthub статистика
 
 <div >
-  <a style="display:flex; max-width: 320px;" href="https://github.com/G28XYZ">
-    <img align="center" style="margin:0" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=g28xyz&theme=nord_bright" />
+  <!-- <a style="display:flex; max-width: 320px;" href="https://github.com/G28XYZ">
+    <img align="center" style="margin:0" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=g28xyz&theme=nord_bright" /> -->
       <img align="center" style="margin:0" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=g28xyz&theme=nord_bright" alt="Alex GitHub Stats" />
   </a>
 </div>
