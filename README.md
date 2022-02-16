@@ -63,13 +63,10 @@
 
 ## &#x1f4c8; GIthub статистика
 
-<div style="display:flex;">
-  <a href="https://github.com/G28XYZ">
+<div >
+  <a style="display:flex; max-width: 320px;" href="https://github.com/G28XYZ">
     <img align="center" style="margin:0" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=g28xyz&theme=nord_bright" />
-  </a>
-
-  <a href="https://github.com/G28XYZ">
-    <img align="center" style="margin:0" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=g28xyz&theme=nord_bright" alt="Alex GitHub Stats" />
+      <img align="center" style="margin:0" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=g28xyz&theme=nord_bright" alt="Alex GitHub Stats" />
   </a>
 </div>
 
