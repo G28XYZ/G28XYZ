@@ -61,6 +61,7 @@
 ## &#x1f4c8; Статистика:
 
 [![codewars](https://www.codewars.com/users/Alex%20Kucher/badges/large)](https://www.codewars.com/users/Alex%20Kucher)
+[![codewars](https://www.codewars.com/users/Alex%20Kucher/badges/large)](https://www.codewars.com/users/marja555)
 
 <div >
   <!-- <a style="display:flex; max-width: 320px;" href="https://github.com/G28XYZ">
