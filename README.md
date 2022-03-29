@@ -19,7 +19,7 @@
 - Спринт 1-2 - [How to learn](https://github.com/g28xyz/how-to-learn)
 - Спринт 3 - [Russian travel](https://github.com/g28xyz/russian-travel)
 - Спринт 4-5-6-7-8-9 - [Mesto](https://github.com/g28xyz/mesto)
-- Спринт 10-11-12 - [Mesto](https://github.com/G28XYZ/react-mesto-auth)
+- Спринт 10-11-12 - [Mesto](https://github.com/G28XYZ/react-mesto-auth) (React + auth)
 
 ### 🗂 Другие проекты:
 
