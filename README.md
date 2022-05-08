@@ -21,7 +21,7 @@
 - Спринт 4-5-6-7-8-9 - [Mesto](https://github.com/g28xyz/mesto)
 - Спринт 10-11-12 - [Mesto](https://github.com/G28XYZ/react-mesto-auth) (React + auth)
 - Спринт 13-14 - [Mesto](https://github.com/G28XYZ/express-mesto-gha) (Backend for Mesto)
-- Спринт 15 - [Mesto Fullstack](https://github.com/G28XYZ/react-mesto-api-full) (Mesto fuulstack)
+- Спринт 15 - [Mesto Fullstack](https://github.com/G28XYZ/react-mesto-api-full) (Mesto fullstack)
 
 ### 🗂 Другие проекты:
 
