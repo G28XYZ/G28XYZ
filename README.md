@@ -12,7 +12,7 @@
 
 ### 📝 В процессе:
 
-- Диплом (в ожидании)
+- Проект - ["Бургерная"](https://github.com/G28XYZ/react-burger). Курс React-разработчик от Яндекс.Практикума - 
 
 ### ✅ Сданы:
 
@@ -22,6 +22,7 @@
 - Спринт 10-11-12 - [Mesto](https://github.com/G28XYZ/react-mesto-auth) (React + auth)
 - Спринт 13-14 - [Mesto](https://github.com/G28XYZ/express-mesto-gha) (Backend for Mesto)
 - Спринт 15 - [Mesto Fullstack](https://github.com/G28XYZ/react-mesto-api-full) (Mesto fullstack)
+- Спринт 16 [Дипломная работа](https://front-movies.nomoredomains.xyz/) (Movies explorer)
 
 ### 🗂 Другие проекты:
 
