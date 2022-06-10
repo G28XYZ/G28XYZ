@@ -14,7 +14,7 @@
 
 - Проект - ["Бургерная"](https://github.com/G28XYZ/react-burger). Курс React-разработчик Яндекс.Практикума.
 
-### Проекты по курсу web-разработчки Яндекс.Практикум:
+### ✅ Проекты по курсу web-разработчки Яндекс.Практикум:
 
 - Спринт 1-2 - [How to learn](https://github.com/g28xyz/how-to-learn)
 - Спринт 3 - [Russian travel](https://github.com/g28xyz/russian-travel)
