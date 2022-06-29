@@ -27,7 +27,7 @@
 ### 🗂 Другие проекты:
 
 - [ToDo list](https://github.com/G28XYZ/minbox-todo-app) - проект из тестового задания компании minbox ToDo list. Демо - [ToDo](https://g28xyz.github.io/minbox-todo-app/)
-- [Re-store](https://github.com/G28XYZ/re-store) - учебный проект из курса профессиональная разработка от Juriy Bura (Udemy)
+- [Re-store](https://github.com/G28XYZ/re-store) - учебный проект из курса профессиональная разработка от Juriy Bura (Udemy) Демо - [re-store](https://g28xyz.github.io/re-store/)
 - [Agency](https://github.com/G28XYZ/test-task-jupyter-soft) - проект из тестового задания компании jupiter-soft. Демо - [Agency](https://g28xyz.github.io/test-task-jupyter-soft/)
 
 ## 🎯 Навыки
