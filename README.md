@@ -26,9 +26,9 @@
 
 ### 🗂 Другие проекты:
 
-- [Калькулятор](https://github.com/G28XYZ/calc) - приложение калькулятор. Демо - [Калькулятор](https://g28xyz.github.io/calc/)
+- [ToDo list](https://github.com/G28XYZ/minbox-todo-app) - проект из тестового задания компании minbox ToDo list. Демо - [ToDo](https://g28xyz.github.io/minbox-todo-app/)
 - [Re-store](https://github.com/G28XYZ/re-store) - учебный проект из курса профессиональная разработка от Juriy Bura (Udemy)
-- [Шахматы/шашки](https://github.com/G28XYZ/chess) - мини-приложение шахматная доска. Демо - [шахматы/шашки](https://g28xyz.github.io/chess/)
+- [Agency](https://github.com/G28XYZ/test-task-jupyter-soft) - проект из тестового задания компании jupiter-soft. Демо - [Agency](https://g28xyz.github.io/test-task-jupyter-soft/)
 
 ## 🎯 Навыки
 
