@@ -1,5 +1,3 @@
-[![Visits Badge](https://badges.pufler.dev/visits/G28XYZ/G28XYZ?style=flat&logo=Git&logoColor=white&color=007DFD)](https://github.com/g28xyz)
-
 <h1 align="center">Привет, меня зовут Александр</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
 <br>
