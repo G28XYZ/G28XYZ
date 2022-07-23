@@ -2,7 +2,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?color=%23000000&duration=8000&lines=%D0%A1%D1%82%D1%83%D0%B4%D0%B5%D0%BD%D1%82+%D0%AF%D0%BD%D0%B4%D0%B5%D0%BA%D1%81.%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D1%83%D0%BC%D0%B0+-+web+❤️">
+<img src="https://readme-typing-svg.herokuapp.com?color=%23000000&duration=8000&lines=%D0%A1%D1%82%D1%83%D0%B4%D0%B5%D0%BD%D1%82+%D0%AF%D0%BD%D0%B4%D0%B5%D0%BA%D1%81.%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D1%83%D0%BC%D0%B0">
 
 </h1>
 
@@ -24,9 +24,9 @@
 
 ### 🗂 Другие проекты:
 
-- [ToDo list](https://github.com/G28XYZ/minbox-todo-app) - проект из тестового задания компании minbox ToDo list. Демо - [ToDo](https://g28xyz.github.io/minbox-todo-app/)
+- [Messenger](https://github.com/G28XYZ/php-auth) - pet-проект Messenger. Stek: PHP, Docker, PostgreSQL, JS. Демо - [Messenger](https://php-8.herokuapp.com/)
 - [Re-store](https://github.com/G28XYZ/re-store) - учебный проект из курса профессиональная разработка от Juriy Bura (Udemy) Демо - [re-store](https://g28xyz.github.io/re-store/)
-- [Agency](https://github.com/G28XYZ/test-task-jupyter-soft) - проект из тестового задания компании jupiter-soft. Демо - [Agency](https://g28xyz.github.io/test-task-jupyter-soft/)
+- [SWAPI](https://github.com/G28XYZ/test-swapi-angular) - проект из тестового задания компании rit-automation. Stek: Angular, RxJS, TS,  Демо - [SWAPI](https://g28xyz.github.io/test-swapi-angular/)
 
 ## 🎯 Навыки
 
