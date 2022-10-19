@@ -1,5 +1,4 @@
 <h1 align="center">Привет, меня зовут Александр</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
 <br>
 
 <img src="https://readme-typing-svg.herokuapp.com?color=%23000000&duration=8000&lines=%D0%A1%D1%82%D1%83%D0%B4%D0%B5%D0%BD%D1%82+%D0%AF%D0%BD%D0%B4%D0%B5%D0%BA%D1%81.%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D1%83%D0%BC%D0%B0">
@@ -7,10 +6,6 @@
 </h1>
 
 ## 📂 Крайние проекты:
-
-### 📝 В процессе:
-
-- Проект - ["Бургерная"](https://github.com/G28XYZ/react-burger). Курс React-разработчик Яндекс.Практикума.
 
 ### ✅ Проекты по курсу web-разработчик Яндекс.Практикум:
 
@@ -21,6 +16,7 @@
 - Спринт 13-14 - [Mesto](https://github.com/G28XYZ/express-mesto-gha) (Backend for Mesto)
 - Спринт 15 - [Mesto Fullstack](https://github.com/G28XYZ/react-mesto-api-full) (Mesto fullstack)
 - Спринт 16 - [Дипломная работа](https://github.com/G28XYZ/movies-explorer-frontend) (Movies explorer)
+- Проект - ["Бургерная"](https://github.com/G28XYZ/react-burger). Курс React-разработчик Яндекс.Практикума.
 
 ### 🗂 Другие проекты:
 
