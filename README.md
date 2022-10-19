@@ -1,4 +1,4 @@
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
+<img align="center" src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
 
 ## 📂 Крайние проекты:
 
