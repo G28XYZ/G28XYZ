@@ -17,7 +17,7 @@
 
 ### 🗂 Другие проекты:
 
-- [Messenger](https://github.com/G28XYZ/php-auth) - pet-проект Messenger. Stek: PHP, Docker, PostgreSQL, JS. Демо - [Messenger](https://php-8.herokuapp.com/)
+- [Messenger](https://github.com/G28XYZ/php-auth) - pet-проект Messenger. Stek: PHP, Docker, PostgreSQL, JS. Демо - [Messenger](http://kucherenko-aleksandr.ru/phpauth)
 - [SWAPI](https://github.com/G28XYZ/test-swapi-angular) - проект из тестового задания компании rit-automation. Stek: Angular, RxJS, TS,  Демо - [SWAPI](https://g28xyz.github.io/test-swapi-angular/)
 - [Re-store](https://github.com/G28XYZ/re-store) - учебный проект из курса профессиональная разработка от Juriy Bura (Udemy) Демо - [re-store](https://g28xyz.github.io/re-store/)
 
