@@ -21,6 +21,7 @@
 - [SWAPI](https://github.com/G28XYZ/test-swapi-angular) - проект из тестового задания компании rit-automation. Stek: Angular, RxJS, TS,  Демо - [SWAPI](https://g28xyz.github.io/test-swapi-angular/)
 - [Re-store](https://github.com/G28XYZ/re-store) - учебный проект из курса профессиональная разработка от Juriy Bura (Udemy) Демо - [re-store](https://g28xyz.github.io/re-store/)
 - [ToDo](https://github.com/G28XYZ/minbox-todo-app) - список дел, проект из тестового задания компании mindbox. Демо - [todo](https://g28xyz.github.io/minbox-todo-app/)
+- [Jump and run](https://github.com/G28XYZ/jump-and-run-react) - браузерня игра по книге "Выразительный Javascript". Данный проект переписан на React. Демо - [Jump&Run](https://g28xyz.github.io/jump-and-run-react/)
 
 
 ## 🎯 Навыки
