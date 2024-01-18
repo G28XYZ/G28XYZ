@@ -15,10 +15,10 @@
 - Спринт 16 - [Дипломная работа](https://github.com/G28XYZ/movies-explorer-frontend) (Movies explorer)
 
 ### ✅ Проект по курсу React-разработчик Яндекс.Практикум:
-- ["Бургерная"](https://github.com/G28XYZ/react-burger).
+- [Бургерная (typescript react, react-dnd, react-router, redux, rtk, websocket)](https://github.com/G28XYZ/react-burger)
 
 ### ✅ Проекты по курсу Backend на nodejs для frontend. Яндекс.Практикум:
-- ["API для сервиса Mesto"](https://github.com/G28XYZ/nodejs-mesto-project)
+- [API для сервиса Mesto (typescript, express, mongodb, celebrate, winston)](https://github.com/G28XYZ/nodejs-mesto-project)
 
 ### 🗂 Другие проекты:
 
