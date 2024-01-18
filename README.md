@@ -13,7 +13,12 @@
 - Спринт 13-14 - [Mesto](https://github.com/G28XYZ/express-mesto-gha) (Backend for Mesto)
 - Спринт 15 - [Mesto Fullstack](https://github.com/G28XYZ/react-mesto-api-full) (Mesto fullstack)
 - Спринт 16 - [Дипломная работа](https://github.com/G28XYZ/movies-explorer-frontend) (Movies explorer)
-- Проект - ["Бургерная"](https://github.com/G28XYZ/react-burger). Курс React-разработчик Яндекс.Практикума.
+
+### ✅ Проект по курсу React-разработчик Яндекс.Практикум:
+- ["Бургерная"](https://github.com/G28XYZ/react-burger).
+
+### ✅ Проекты по курсу Backend на nodejs для frontend. Яндекс.Практикум:
+- ["API для сервиса Mesto"](https://github.com/G28XYZ/nodejs-mesto-project)
 
 ### 🗂 Другие проекты:
 
