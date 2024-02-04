@@ -19,6 +19,7 @@
 
 ### ✅ Проекты по курсу Backend на nodejs для frontend. Яндекс.Практикум:
 - [API для сервиса Mesto](https://github.com/G28XYZ/nodejs-mesto-project) (typescript, express, mongodb, celebrate, winston)
+- [API для сервиса вишлистов](https://github.com/G28XYZ/kupipodariday-backend) (typescript, nestjs, postgres, typeorm, OpenID и OAuth, celebrate, winston)
 
 ### 🗂 Другие проекты:
 
