@@ -25,6 +25,7 @@
 ### 🗂 Другие проекты:
 
 - [AI test tool](https://github.com/G28XYZ/ai-testing-tool) - pet-проект который можно использовать для покрытия кода тестами с помощью нейросети.
+- [Terminal UI](https://github.com/G28XYZ/terminal-ui) - pet-проект Терминал, запускает в браузере эмулятор терминала который используется в системе (UNIX).
 - [Messenger](https://github.com/G28XYZ/php-auth) - pet-проект Messenger. Stek: PHP, Docker, PostgreSQL, JS. Демо - [Messenger](http://kucherenko-aleksandr.ru/phpauth)
 - [SWAPI](https://github.com/G28XYZ/test-swapi-angular) - проект из тестового задания компании rit-automation. Stek: Angular, RxJS, TS,  Демо - [SWAPI](https://g28xyz.github.io/test-swapi-angular/)
 - [Re-store](https://github.com/G28XYZ/re-store) - учебный проект из курса профессиональная разработка от Juriy Bura (Udemy) Демо - [re-store](https://g28xyz.github.io/re-store/)
