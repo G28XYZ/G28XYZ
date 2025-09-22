@@ -5,8 +5,8 @@
 ## 📂 Крайние проекты:
 
 ### ✅ Проекты по курсу web-разработчик Яндекс.Практикум:
-[Mesto Fullstack](https://github.com/G28XYZ/react-mesto-api-full) (Mesto fullstack)
-[Дипломная работа](https://github.com/G28XYZ/movies-explorer-frontend) (Movies explorer)
+- [Mesto Fullstack](https://github.com/G28XYZ/react-mesto-api-full) (Mesto fullstack)
+- [Дипломная работа](https://github.com/G28XYZ/movies-explorer-frontend) (Movies explorer)
 
 ### ✅ Проект по курсу React-разработчик Яндекс.Практикум:
 - [Бургерная](https://github.com/G28XYZ/react-burger) (typescript, react, react-dnd, react-router, redux, rtk, websocket)
