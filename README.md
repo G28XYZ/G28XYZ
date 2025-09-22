@@ -26,6 +26,9 @@
 - [API для сервиса вишлистов](https://github.com/G28XYZ/kupipodariday-backend) (typescript, nestjs, postgres, typeorm, OpenID и OAuth, celebrate, winston)
 - [deploy и docker для сервиса вишлистов](https://github.com/G28XYZ/nodejs-docker-and-compose) (nodejs, docker, pm2, linux)
 
+## Freelance
+- [MyCloud](https://github.com/G28XYZ/oblako-fullstack) - ☁️ Облачное хранилище «MyCloud» (Django + React)
+
 ## 📝 Посты
 Веду канал в дзен, оставляю заметки из опыта в разработке, или из того что заинтересовало [dzen Blog Note](https://dzen.ru/id/5d708bbb0ce57b00ad938f3c)
 
