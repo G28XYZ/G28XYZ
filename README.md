@@ -18,7 +18,7 @@
 
 ### 🗂 Другие проекты:
 
-- [Меню пуск Windows](https://github.com/G28XYZ/start-window-electron) - pet-проект "Меню пуск Windows" на Electron. ( [Пользователи выяснили, что кнопка пуск в Windows 11 — приложение на React Native](https://habr.com/ru/news/913050/) )
+- [Меню пуск Windows](https://github.com/G28XYZ/start-window-electron) - pet-проект "Меню пуск Windows" на Electron. ( ref - [Пользователи выяснили, что кнопка пуск в Windows 11 — приложение на React Native](https://habr.com/ru/news/913050/) )
 - [AI test tool](https://github.com/G28XYZ/ai-testing-tool) - pet-проект который можно использовать для покрытия кода тестами с помощью нейросети.
 - [Terminal UI](https://github.com/G28XYZ/terminal-ui) - pet-проект Терминал, запускает в браузере эмулятор терминала который используется в системе (UNIX).
 - [Messenger](https://github.com/G28XYZ/php-auth) - pet-проект Messenger. Stek: PHP, Docker, PostgreSQL, JS. Демо - [Messenger](http://kucherenko-aleksandr.ru/phpauth)
