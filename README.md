@@ -3,7 +3,17 @@
 </h1>
 
 ## 📂 Крайние проекты:
+- [Telegram bot, nestjs](https://github.com/G28XYZ/telegram-bot-nestjs) - pet-проект Телеграм bot на nestjs ( полный разбор и описание в [статье в dzen](https://dzen.ru/a/ZIiTRquEFG5mPY_T) )
+- [Меню пуск Windows](https://github.com/G28XYZ/start-window-electron) - pet-проект "Меню пуск Windows" на Electron. ( ref - [Пользователи выяснили, что кнопка пуск в Windows 11 — приложение на React Native](https://habr.com/ru/news/913050/) )
+- [AI test tool](https://github.com/G28XYZ/ai-testing-tool) - pet-проект который можно использовать для покрытия кода тестами с помощью нейросети.
+- [Terminal UI](https://github.com/G28XYZ/terminal-ui) - pet-проект Терминал, запускает в браузере эмулятор терминала который используется в системе (UNIX).
+- [Messenger](https://github.com/G28XYZ/php-auth) - pet-проект Messenger. Stek: PHP, Docker, PostgreSQL, JS. Демо - [Messenger](http://kucherenko-aleksandr.ru/phpauth)
+- [SWAPI](https://github.com/G28XYZ/test-swapi-angular) - проект из тестового задания компании rit-automation. Stek: Angular, RxJS, TS,  Демо - [SWAPI](https://g28xyz.github.io/test-swapi-angular/)
+- [Re-store](https://github.com/G28XYZ/re-store) - учебный проект из курса профессиональная разработка от Juriy Bura (Udemy) Демо - [re-store](https://g28xyz.github.io/re-store/)
+- [ToDo](https://github.com/G28XYZ/minbox-todo-app) - список дел, проект из тестового задания компании mindbox. Демо - [todo](https://g28xyz.github.io/minbox-todo-app/)
+- [Jump and run](https://github.com/G28XYZ/jump-and-run-react) - браузерня игра по книге "Выразительный Javascript". Данный проект переписан на React, и добален некоторый свой функционал (счет монет, перезапуск игры, анимации). Демо - [Jump&Run](https://g28xyz.github.io/jump-and-run-react/)
 
+> ## 📝 Обучение
 ### ✅ Проекты по курсу web-разработчик Яндекс.Практикум:
 - [Mesto Fullstack](https://github.com/G28XYZ/react-mesto-api-full) (Mesto fullstack)
 - [Дипломная работа](https://github.com/G28XYZ/movies-explorer-frontend) (Movies explorer)
@@ -15,18 +25,6 @@
 - [API для сервиса Mesto](https://github.com/G28XYZ/nodejs-mesto-project) (typescript, express, mongodb, celebrate, winston)
 - [API для сервиса вишлистов](https://github.com/G28XYZ/kupipodariday-backend) (typescript, nestjs, postgres, typeorm, OpenID и OAuth, celebrate, winston)
 - [deploy и docker для сервиса вишлистов](https://github.com/G28XYZ/nodejs-docker-and-compose) (nodejs, docker, pm2, linux)
-
-### 🗂 Другие проекты:
-
-- [Telegram bot, nestjs](https://github.com/G28XYZ/telegram-bot-nestjs) - pet-проект Телеграм bot на nestjs ( полный разбор и описание в [статье в dzen](https://dzen.ru/a/ZIiTRquEFG5mPY_T) )
-- [Меню пуск Windows](https://github.com/G28XYZ/start-window-electron) - pet-проект "Меню пуск Windows" на Electron. ( ref - [Пользователи выяснили, что кнопка пуск в Windows 11 — приложение на React Native](https://habr.com/ru/news/913050/) )
-- [AI test tool](https://github.com/G28XYZ/ai-testing-tool) - pet-проект который можно использовать для покрытия кода тестами с помощью нейросети.
-- [Terminal UI](https://github.com/G28XYZ/terminal-ui) - pet-проект Терминал, запускает в браузере эмулятор терминала который используется в системе (UNIX).
-- [Messenger](https://github.com/G28XYZ/php-auth) - pet-проект Messenger. Stek: PHP, Docker, PostgreSQL, JS. Демо - [Messenger](http://kucherenko-aleksandr.ru/phpauth)
-- [SWAPI](https://github.com/G28XYZ/test-swapi-angular) - проект из тестового задания компании rit-automation. Stek: Angular, RxJS, TS,  Демо - [SWAPI](https://g28xyz.github.io/test-swapi-angular/)
-- [Re-store](https://github.com/G28XYZ/re-store) - учебный проект из курса профессиональная разработка от Juriy Bura (Udemy) Демо - [re-store](https://g28xyz.github.io/re-store/)
-- [ToDo](https://github.com/G28XYZ/minbox-todo-app) - список дел, проект из тестового задания компании mindbox. Демо - [todo](https://g28xyz.github.io/minbox-todo-app/)
-- [Jump and run](https://github.com/G28XYZ/jump-and-run-react) - браузерня игра по книге "Выразительный Javascript". Данный проект переписан на React, и добален некоторый свой функционал (счет монет, перезапуск игры, анимации). Демо - [Jump&Run](https://g28xyz.github.io/jump-and-run-react/)
 
 ## 📝 Посты
 Веду канал в дзен, оставляю заметки из опыта в разработке, или из того что заинтересовало [dzen Blog Note](https://dzen.ru/id/5d708bbb0ce57b00ad938f3c)
