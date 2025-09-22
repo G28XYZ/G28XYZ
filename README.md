@@ -13,7 +13,7 @@
 - [ToDo](https://github.com/G28XYZ/minbox-todo-app) - список дел, проект из тестового задания компании mindbox. Демо - [todo](https://g28xyz.github.io/minbox-todo-app/)
 - [Jump and run](https://github.com/G28XYZ/jump-and-run-react) - браузерня игра по книге "Выразительный Javascript". Данный проект переписан на React, и добален некоторый свой функционал (счет монет, перезапуск игры, анимации). Демо - [Jump&Run](https://g28xyz.github.io/jump-and-run-react/)
 
-> ## 📝 Обучение
+## 🧐 Обучение
 ### ✅ Проекты по курсу web-разработчик Яндекс.Практикум:
 - [Mesto Fullstack](https://github.com/G28XYZ/react-mesto-api-full) (Mesto fullstack)
 - [Дипломная работа](https://github.com/G28XYZ/movies-explorer-frontend) (Movies explorer)
@@ -26,7 +26,7 @@
 - [API для сервиса вишлистов](https://github.com/G28XYZ/kupipodariday-backend) (typescript, nestjs, postgres, typeorm, OpenID и OAuth, celebrate, winston)
 - [deploy и docker для сервиса вишлистов](https://github.com/G28XYZ/nodejs-docker-and-compose) (nodejs, docker, pm2, linux)
 
-## Freelance
+## 🤑 Freelance
 - [MyCloud](https://github.com/G28XYZ/oblako-fullstack) - ☁️ Облачное хранилище «MyCloud» (Django + React)
 
 ## 📝 Посты
