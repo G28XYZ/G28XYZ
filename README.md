@@ -5,14 +5,8 @@
 ## 📂 Крайние проекты:
 
 ### ✅ Проекты по курсу web-разработчик Яндекс.Практикум:
-
-- Спринт 1-2 - [How to learn](https://github.com/g28xyz/how-to-learn)
-- Спринт 3 - [Russian travel](https://github.com/g28xyz/russian-travel)
-- Спринт 4-5-6-7-8-9 - [Mesto](https://github.com/g28xyz/mesto)
-- Спринт 10-11-12 - [Mesto](https://github.com/G28XYZ/react-mesto-auth) (React + auth)
-- Спринт 13-14 - [Mesto](https://github.com/G28XYZ/express-mesto-gha) (Backend for Mesto)
-- Спринт 15 - [Mesto Fullstack](https://github.com/G28XYZ/react-mesto-api-full) (Mesto fullstack)
-- Спринт 16 - [Дипломная работа](https://github.com/G28XYZ/movies-explorer-frontend) (Movies explorer)
+[Mesto Fullstack](https://github.com/G28XYZ/react-mesto-api-full) (Mesto fullstack)
+[Дипломная работа](https://github.com/G28XYZ/movies-explorer-frontend) (Movies explorer)
 
 ### ✅ Проект по курсу React-разработчик Яндекс.Практикум:
 - [Бургерная](https://github.com/G28XYZ/react-burger) (typescript, react, react-dnd, react-router, redux, rtk, websocket)
@@ -24,6 +18,7 @@
 
 ### 🗂 Другие проекты:
 
+- [Меню пуск Windows](https://github.com/G28XYZ/start-window-electron) - pet-проект "Меню пуск Windows" на Electron. ( [Пользователи выяснили, что кнопка пуск в Windows 11 — приложение на React Native](https://habr.com/ru/news/913050/) )
 - [AI test tool](https://github.com/G28XYZ/ai-testing-tool) - pet-проект который можно использовать для покрытия кода тестами с помощью нейросети.
 - [Terminal UI](https://github.com/G28XYZ/terminal-ui) - pet-проект Терминал, запускает в браузере эмулятор терминала который используется в системе (UNIX).
 - [Messenger](https://github.com/G28XYZ/php-auth) - pet-проект Messenger. Stek: PHP, Docker, PostgreSQL, JS. Демо - [Messenger](http://kucherenko-aleksandr.ru/phpauth)
