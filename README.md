@@ -2,6 +2,8 @@
   <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
 </h1>
 
+![Metrics](/github-metrics.svg)
+
 ## 📂 Крайние проекты:
 - [Telegram bot, nestjs](https://github.com/G28XYZ/telegram-bot-nestjs) - pet-проект Телеграм bot на nestjs ( полный разбор и описание в [статье в dzen](https://dzen.ru/a/ZIiTRquEFG5mPY_T) )
 - [Меню пуск Windows](https://github.com/G28XYZ/start-window-electron) - pet-проект "Меню пуск Windows" на Electron. ( ref - [Пользователи выяснили, что кнопка пуск в Windows 11 — приложение на React Native](https://habr.com/ru/news/913050/) )

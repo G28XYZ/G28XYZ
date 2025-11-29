@@ -1,0 +1,33 @@
+name: GitHub Metrics
+
+on:
+  # Запуск раз в день
+  schedule:
+    - cron: "0 0 * * *"
+  # Возможность запустить вручную из вкладки Actions
+  workflow_dispatch:
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate GitHub Metrics
+        uses: lowlighter/metrics@latest
+        with:
+          # Токен, который ты добавил в Secrets (Settings → Secrets → Actions)
+          token: ${{ secrets.METRICS_TOKEN }}
+
+          # Твой логин GitHub
+          user: G28XYZ
+
+          # Какой шаблон использовать
+          template: classic
+
+          # Что показывать в панели
+          base: header, activity, community, repositories
+
+          # Часовой пояс (можешь поменять при желании)
+          config_timezone: Europe/Bratislava
+
+          # Имя файла с метриками
+          filename: github-metrics.svg
