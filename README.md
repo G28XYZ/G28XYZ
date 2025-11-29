@@ -73,13 +73,6 @@
 
 <!-- [![codewars](https://www.codewars.com/users/Alex%20Kucher/badges/large)](https://www.codewars.com/users/Alex%20Kucher) -->
 
-<!-- <div > -->
-  <!-- <a style="display:flex; max-width: 320px;" href="https://github.com/G28XYZ">
-    <img align="center" style="margin:0" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=g28xyz&theme=nord_bright" /> -->
-      <!-- <img align="center" style="margin:0" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=g28xyz&theme=nord_bright" alt="Alex GitHub Stats" /> -->
-  <!-- </a> -->
-<!-- </div> -->
-
 <!-- <div style="display:flex;">
   <a href="https://github.com/G28XYZ">
     <img align="center" style="margin:0" src="https://github-readme-stats.vercel.app/api/top-langs/?username=G28XYZ&hide=html,css&theme=algolia&show_icons=true" />
